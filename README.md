@@ -13,6 +13,6 @@ pip install google-generativeai pillow python-dotenv
 3. Insert the Gemini API key into the file created above:
 GEMINI_API_KEY="API_KEY"
 
-4. Download ai_image_generator.py and place it in the same location as the ".env" file:
+4. Download ai_image_generator.py and place it in the same location as the ".env" file;
 
 5. Run ai_image_generator.py
