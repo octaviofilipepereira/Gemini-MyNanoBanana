@@ -35,7 +35,7 @@ except Exception as e:
 prompt_descricao = "Uma estação de radio amador, com morse e vários rádios e antenas, no  campo, num dia de sol, num quadro a óleo"
 
 # Nome do output (png, jpg, wepp, tif, etc...)
-NOME_DO_ARQUIVO = "hampt5.png"
+NOME_DO_ARQUIVO = "hampt.png"
 
 print(f"🚀 A enviar o pedido para o Gemini - Modelo Nano Banana: '{prompt_descricao}'")
 
