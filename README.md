@@ -19,3 +19,10 @@ GEMINI_API_KEY="API_KEY"
 4. Download ai_image_generator.py and place it in the same location as the ".env" file;
 
 5. Run ai_image_generator.py
+
+Run on Microsoft Windows:
+1. Download the files located at MS EXE folder;
+
+2. Uncompress my-gnanobanana.7z.001
+
+3. Run the program
