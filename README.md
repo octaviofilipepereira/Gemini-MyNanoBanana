@@ -7,7 +7,7 @@ Python script that i wrote to test Gemini - Nano Banana Model to deliver AI imag
 
 License: GPLv3 (https://www.gnu.org/licenses/gpl-3.0.html)
 
-To deploy:
+Get the source code and run the program:
 1. Install the necessary Python modules:
 pip install google-generativeai pillow python-dotenv
 
