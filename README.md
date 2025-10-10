@@ -1,5 +1,8 @@
 # Gemini-MyNanoBanana
 
+<img width="597" height="276" alt="Selection_530" src="https://github.com/user-attachments/assets/28f94c17-de1b-4698-9b14-ad4e9177f622" />
+
+
 Python script that i wrote to test Gemini - Nano Banana Model to deliver AI images from desired description.
 
 License: GPLv3 (https://www.gnu.org/licenses/gpl-3.0.html)
