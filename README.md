@@ -2,6 +2,7 @@
 
 <img width="597" height="276" alt="Selection_530" src="https://github.com/user-attachments/assets/28f94c17-de1b-4698-9b14-ad4e9177f622" />
 
+<img width="599" height="280" alt="My-GannoBanana" src="https://github.com/user-attachments/assets/f02feb9e-cf8c-450c-a641-502ea9816f3f" />
 
 Python script that i wrote to test Gemini - Nano Banana Model to deliver AI images from desired description.
 
