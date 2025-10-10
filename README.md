@@ -12,6 +12,7 @@ Get the source code and run the program:
 pip install google-generativeai pillow python-dotenv
 
 2. Create the ".env" file in the same location as the Python script;
+If you don't have a Google API Key, go here, and create your key: https://aistudio.google.com/app/api-keys
 
 3. Insert the Gemini API key into the file created above:
 GEMINI_API_KEY="API_KEY"
@@ -21,8 +22,15 @@ GEMINI_API_KEY="API_KEY"
 5. Run ai_image_generator.py
 
 Run on Microsoft Windows:
+
 1. Download the files located at MS EXE folder;
 
 2. Uncompress my-gnanobanana.7z.001
 
-3. Run the program
+3. Create the ".env" file in the same location of this program;
+If you don't have a Google API Key, go here, and create your key: https://aistudio.google.com/app/api-keys
+
+4. Insert your Gemini API key into the file created above:
+GEMINI_API_KEY="API_KEY"
+
+5. Run the program
